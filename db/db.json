@@ -1,6 +1,6 @@
 {
     "ingredientes": {
-      "paes": [
+      "breedData": [
         {
           "id": 1,
           "tipo": "Italiano Branco"
@@ -18,7 +18,7 @@
           "tipo": "Integral"
         }
       ],
-      "carnes": [
+      "meatData": [
         {
           "id": 1,
           "tipo": "Maminha"
@@ -36,7 +36,7 @@
           "tipo": "Veggie burger"
         }
       ],
-      "opcionais": [
+      "optionalsData": [
         {
           "id": 1,
           "tipo": "Bacon"
