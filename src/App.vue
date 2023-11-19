@@ -29,8 +29,9 @@ export default {
     margin: 0;
     box-sizing: border-box;
   }
+
   .main-container {
-    margin: 50px;
+
     min-height: 250px;
   }
 
